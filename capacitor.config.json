@@ -1,0 +1,6 @@
+{
+  "appId": "com.alba7ith.althaki",
+  "appName": "الباحث الذكي",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
